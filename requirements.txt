@@ -2,6 +2,6 @@ aiohttp
 numpy
 pandas
 python-telegram-bot
-TA
+TA-Lib
 requests
 python-dotenv
