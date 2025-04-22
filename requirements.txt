@@ -4,5 +4,4 @@ pandas
 python-telegram-bot
 TA
 requests
-talib
 python-dotenv
